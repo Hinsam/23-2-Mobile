@@ -1,0 +1,30 @@
+manifiests
+앱 가져와서 깔면
+권한 반영, 허가사항을 넣어둠
+
+res
+resource
+- drawable -> 이미지, mp3 파일 테스팅할때 집어넣어야 함
+- layout -> 화면이 여러개, 자동으로 layout에 저장
+- values -> 문자, 색 설정 같은거?
+
+위젯이 담김 , 레이아웃
+레이아웃 개수: 전체 3개
+
+반드시 명시해야 하는 id
+같은 이름의 id x
+
+텍스튜 뷰는 고칠 수 x
+입력의 에디터 뷰
+
+텍스트 뷰: 입력 x 오로지 출력만
+
+stream으로 입출력이 이루어짐 -> int로 변환하여 사용한다.
+
+입력 editor text
+출력 text view
+setontouch 반응 안하면 setonclick으로
+
+toast message 에러 메시지 출력
+
+pixel  2 33
